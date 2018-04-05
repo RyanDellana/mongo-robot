@@ -5,4 +5,5 @@ PC-based mobile robot currently under development.
 
 [![Mongo Video0](https://img.youtube.com/vi/0nc-OOtKmAQ/0.jpg)](https://www.youtube.com/watch?v=0nc-OOtKmAQ)
 
+[![Mongo Video1](https://img.youtube.com/vi/ocXfcvlPi6c/0.jpg)](https://www.youtube.com/watch?v=ocXfcvlPi6c)
 
